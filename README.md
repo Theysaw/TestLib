@@ -17,6 +17,7 @@ Jest to biblioteka zawierająca funkcje pomocnicze do różnych zastosowań, tak
 ```bash
 git clone https://github.com/twoje_repozytorium.git 
 ```
+### 2. Funkcje biblioteki
 
 1. normalize_data(data)
 Funkcja normalize_data normalizuje dane wejściowe (listę liczb) do zakresu [0, 1].
